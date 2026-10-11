@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number AI</string>
+    <string name="service_description">Reads accessible game text and performs user-configured taps when automation is enabled.</string>
+</resources>
